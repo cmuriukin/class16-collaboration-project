@@ -4,3 +4,5 @@ This file will demonstrate versioning with git
 this is I Printed my first git
 class 16
 New Era Solution
+New era class is so awesome
+Ilove the commitment of this class 16
