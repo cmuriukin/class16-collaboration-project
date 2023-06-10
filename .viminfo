@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1686410346,,"wq"
 :q
 |2,0,1686011262,,"q"
-:wq
-|2,0,1686010146,,"wq"
 :q!
 |2,0,1685496093,,"q!"
 :wd
@@ -51,34 +51,50 @@
 |3,0,36,0,1,0,1683683405,"q"
 
 # File marks:
-'0  1  0  ~/new-file
-|4,48,1,0,1686011262,"~/new-file"
-'1  1  29  ~/branching
-|4,49,1,29,1686010146,"~/branching"
-'2  8  36  ~/class16--git-dir/README.MD
-|4,50,8,36,1685497930,"~/class16--git-dir/README.MD"
-'3  6  15  ~/class16--git-dir/README.MD
-|4,51,6,15,1685496265,"~/class16--git-dir/README.MD"
+'0  57  38  ~/class16--git-dir/calc.sh
+|4,48,57,38,1686410346,"~/class16--git-dir/calc.sh"
+'1  1  0  ~/new-file
+|4,49,1,0,1686011262,"~/new-file"
+'2  1  29  ~/branching
+|4,50,1,29,1686010146,"~/branching"
+'3  8  36  ~/class16--git-dir/README.MD
+|4,51,8,36,1685497930,"~/class16--git-dir/README.MD"
 '4  6  15  ~/class16--git-dir/README.MD
 |4,52,6,15,1685496265,"~/class16--git-dir/README.MD"
-'5  5  0  ~/class16--git-dir/README.MD
-|4,53,5,0,1685496159,"~/class16--git-dir/README.MD"
+'5  6  15  ~/class16--git-dir/README.MD
+|4,53,6,15,1685496265,"~/class16--git-dir/README.MD"
 '6  5  0  ~/class16--git-dir/README.MD
 |4,54,5,0,1685496159,"~/class16--git-dir/README.MD"
 '7  5  0  ~/class16--git-dir/README.MD
 |4,55,5,0,1685496159,"~/class16--git-dir/README.MD"
 '8  5  0  ~/class16--git-dir/README.MD
 |4,56,5,0,1685496159,"~/class16--git-dir/README.MD"
-'9  1  8  ~/class16--git-dir/README.MD
-|4,57,1,8,1685496093,"~/class16--git-dir/README.MD"
+'9  5  0  ~/class16--git-dir/README.MD
+|4,57,5,0,1685496159,"~/class16--git-dir/README.MD"
 
 # Jumplist (newest first):
+-'  57  38  ~/class16--git-dir/calc.sh
+|4,39,57,38,1686410346,"~/class16--git-dir/calc.sh"
+-'  1  0  ~/new-file
+|4,39,1,0,1686011262,"~/new-file"
 -'  1  0  ~/new-file
 |4,39,1,0,1686011262,"~/new-file"
 -'  1  29  ~/branching
 |4,39,1,29,1686010146,"~/branching"
 -'  1  29  ~/branching
 |4,39,1,29,1686010146,"~/branching"
+-'  1  29  ~/branching
+|4,39,1,29,1686010146,"~/branching"
+-'  1  29  ~/branching
+|4,39,1,29,1686010146,"~/branching"
+-'  8  36  ~/class16--git-dir/README.MD
+|4,39,8,36,1685497930,"~/class16--git-dir/README.MD"
+-'  8  36  ~/class16--git-dir/README.MD
+|4,39,8,36,1685497930,"~/class16--git-dir/README.MD"
+-'  8  36  ~/class16--git-dir/README.MD
+|4,39,8,36,1685497930,"~/class16--git-dir/README.MD"
+-'  8  36  ~/class16--git-dir/README.MD
+|4,39,8,36,1685497930,"~/class16--git-dir/README.MD"
 -'  8  36  ~/class16--git-dir/README.MD
 |4,39,8,36,1685497930,"~/class16--git-dir/README.MD"
 -'  8  36  ~/class16--git-dir/README.MD
@@ -95,6 +111,22 @@
 |4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
 -'  6  15  ~/class16--git-dir/README.MD
 |4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685497880,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685496265,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685496265,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685496265,"~/class16--git-dir/README.MD"
+-'  6  15  ~/class16--git-dir/README.MD
+|4,39,6,15,1685496265,"~/class16--git-dir/README.MD"
 -'  6  15  ~/class16--git-dir/README.MD
 |4,39,6,15,1685496265,"~/class16--git-dir/README.MD"
 -'  6  15  ~/class16--git-dir/README.MD
@@ -119,6 +151,30 @@
 |4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
 -'  5  0  ~/class16--git-dir/README.MD
 |4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496233,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496159,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496159,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496159,"~/class16--git-dir/README.MD"
+-'  5  0  ~/class16--git-dir/README.MD
+|4,39,5,0,1685496159,"~/class16--git-dir/README.MD"
 -'  5  0  ~/class16--git-dir/README.MD
 |4,39,5,0,1685496159,"~/class16--git-dir/README.MD"
 -'  5  0  ~/class16--git-dir/README.MD
@@ -151,6 +207,38 @@
 |4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
 -'  1  8  ~/class16--git-dir/README.MD
 |4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496107,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496093,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496093,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496093,"~/class16--git-dir/README.MD"
+-'  1  8  ~/class16--git-dir/README.MD
+|4,39,1,8,1685496093,"~/class16--git-dir/README.MD"
 -'  1  8  ~/class16--git-dir/README.MD
 |4,39,1,8,1685496093,"~/class16--git-dir/README.MD"
 -'  1  8  ~/class16--git-dir/README.MD
@@ -185,96 +273,16 @@
 |4,39,4,15,1685496073,"~/class16--git-dir/README.MD"
 -'  4  15  ~/class16--git-dir/README.MD
 |4,39,4,15,1685496073,"~/class16--git-dir/README.MD"
--'  4  15  ~/class16--git-dir/README.MD
-|4,39,4,15,1685496073,"~/class16--git-dir/README.MD"
--'  4  15  ~/class16--git-dir/README.MD
-|4,39,4,15,1685496073,"~/class16--git-dir/README.MD"
--'  4  15  ~/class16--git-dir/README.MD
-|4,39,4,15,1685496073,"~/class16--git-dir/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
--'  4  0  ~/README.MD
-|4,39,4,0,1685492931,"~/README.MD"
 
 # History of marks within files (newest to oldest):
+
+> ~/class16--git-dir/calc.sh
+	*	1686410342	0
+	"	57	38
+	^	57	39
+	.	57	38
+	+	56	4
+	+	57	38
 
 > ~/new-file
 	*	1686011260	0
@@ -307,13 +315,6 @@
 	^	4	0
 	.	3	16
 	+	3	16
-
-> ~/class16--git-dir/calc.sh
-	*	1685491612	0
-	"	57	0
-	^	57	0
-	.	56	4
-	+	56	4
 
 > ~/djibril.sh
 	*	1685416385	0
