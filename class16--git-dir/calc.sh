@@ -54,4 +54,4 @@ case $choice in
     echo "Invalid choice!"
     ;;
 esac
-
+#This calculator was created by Charles
