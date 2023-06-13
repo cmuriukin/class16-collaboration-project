@@ -524,3 +524,67 @@ git status
 git commit -m "New calculator By Djibril"
 git push
 git push --set-upstream origin Dubril
+clear
+ls
+mv README.MD Dubril-readme.md
+cd
+ls
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+git branch
+ls
+clear
+ls
+rm -rf class16-collaboration-project
+git remote -v
+git remote rm origin
+git remote -v
+git remote add git@github.com:cmuriukin/class16-collaboration-project.git
+git remote add origin git@github.com:cmuriukin/class16-collaboration-project.git
+git remote -v
+git branch
+git checkout -b DjibrilC
+git switch DjibrilC
+git branch
+git commiclear
+git add .
+git commit -m "Delete file"
+git push
+git push --set-upstream origin DjibrilC
+clear
+git switch dev
+git aad .
+git commit -m "New Branch"
+git push
+git push --set-upstream origin dev
+git branch
+git switch DjibrilC
+git add .
+git commit -m "README.MD TO Djibril.MD"
+CLEAR
+clear
+switch DjibrilC
+git switch DjibrilC
+git pull
+ls
+cd class16--git-dir
+git remote -v 
+git status
+git push
+git push --set-upstream origin DjibrilC
+clear
+ls
+cd
+cd 
+pwd
+ls
+clear
+ls
+git git git clone git@github.com:cmuriukin/class16-collaboration-project.git
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+git rm -rf class16-collaboration-project
+clear
+ls
+rm -rf class16-collaboration-project
+ls
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+vim
