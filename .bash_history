@@ -439,3 +439,88 @@ git commit -m "I added two lines and deleted one"
 clear
 git log
 git log -p -l
+clear
+cd class16--git-dir
+git status
+clear
+git branch
+ls
+git add README.MD
+git add calc.sh
+git status
+git add ../.ssh/known_hosts
+git status
+git switch main
+git add ../.viminfo
+git satus
+clear
+git status
+git switch main
+git add  .viminfo
+git status
+git push dev
+git push git@github.com:DubrilCiyombo/class16--git-dir.git
+clear
+git switch main
+git commit -m "M. Charles is the owner of Clc.sh"
+git switch main
+git branch
+git switch dev
+git push dev
+git push git@github.com:DubrilCiyombo/class16--git-dir.git
+clear
+git pull
+git switch
+git branch
+git switchclear
+clear
+git remote add origin git@github.com:DubrilCiyombo/class16--git-dir.git
+git push --set-upstream origin dev
+clear
+cd
+cd 
+pwd
+clear
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+clear
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+clear
+cd 
+git clonegit@github.com:cmuriukin/class16-collaboration-project.git
+git clone git@github.com:cmuriukin/class16-collaboration-project.git
+$ ssh -T git@github.com:cmuriukin/class16-collaboration-project.git
+clear
+cd 
+pwd
+clear
+cd 
+pwd 
+git clone https://github.com/cmuriukin/class16-collaboration-project.git
+ls
+cd class16-collaboration-project
+git branch
+git checkout -b Dubril
+cat README.MD
+cd class16--git-dir
+clear
+pwd
+cd class16--gir-dir
+ls
+clear
+cd 
+ls
+cd class16--git-dir
+cat calc.sh
+clear
+cd 
+ls
+cd class16-collaboration-project
+git branch
+vim
+vim calc.sh
+git status
+git add calc.sh
+git status
+git commit -m "New calculator By Djibril"
+git push
+git push --set-upstream origin Dubril
