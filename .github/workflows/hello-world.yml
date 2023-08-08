@@ -4,7 +4,7 @@ jobs:
    my-firts-job:
      runs-on: ubuntu-latest
      steps:
-      -name: print-hello-world
-       run: echo "hello world"
-       run: run-sleep
-       run: sleep 30
+       - name: print-hello-world
+         run: echo "hello world"
+       - name: run-sleep
+         run: sleep 30
